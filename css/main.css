@@ -1089,7 +1089,10 @@ header {
 	min-height: 66px;
 	z-index: 600;
 }
-
+header .row {
+	
+	min-height: 66px;
+}
 header .top-bar {
 	display: block;
 	background: #000000;
